@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohibshaikh&label=Profile%20views&color=007bff&style=flat" alt="mohibshaikh" /> </p>
 
-- 🔭 I’m currently working on **Sign Language Detection**
+- 🔭 I’m currently working on **Domain Adaptability Optimization**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
