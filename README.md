@@ -1,5 +1,5 @@
 <h1 align="center">I'm Mohib Shaikh</h1>
-<h3 align="center">Ardent Machine Learning Engineer & Django Developer</h3>
+<h3 align="center">Computer Vision Engineer & Django Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohibshaikh&label=Profile%20views&color=007bff&style=flat" alt="mohibshaikh" /> </p>
 
