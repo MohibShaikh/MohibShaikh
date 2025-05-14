@@ -1,5 +1,6 @@
 <h1 align="center">I'm Mohib Shaikh</h1>
-<h3 align="center">Full Stack Engineer, Level 1 SOC Analyst, and Pen tester</h3>
+<h3 align="center">AI-Driven Full Stack Developer | Multi-Agent Systems Engineer | Entry-Level SOC Analyst</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohibshaikh&label=Profile%20views&color=007bff&style=flat" alt="mohibshaikh" /> </p>
 
