@@ -1,10 +1,10 @@
 <h1 align="center">I'm Mohib Shaikh</h1>
-<h3 align="center">AI-Driven Full Stack Developer | Multi-Agent Systems Engineer | Entry-Level SOC Analyst</h3>
+<h3 align="center">.NET Backend Developer | Multi-Agent Systems Engineer | Computer Vision Engineer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohibshaikh&label=Profile%20views&color=007bff&style=flat" alt="mohibshaikh" /> </p>
 
-- 🔭 I’m currently working on **Domain Adaptation Optimization**
+- 🔭 I’m currently working on **Multi Agent Systems**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
