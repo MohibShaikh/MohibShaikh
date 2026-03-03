@@ -55,7 +55,7 @@ let mohib = Developer {
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://portfolio-enhanced-one.vercel.app)
-[![Sportvision](https://img.shields.io/pypi/dm/sportvision)
+![Sportvision](https://img.shields.io/pypi/dm/sportvision)
 
 **Open to:** Remote Rust/Full Stack roles, IoT projects, consulting
 
