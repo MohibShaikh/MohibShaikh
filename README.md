@@ -46,7 +46,7 @@ mohib = Developer(
 
 ### Let's Connect
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mohibuddin9@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://portfolio-enhanced-one.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://www.mohibuddin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/MohibShaikh)
 
 **Open to:** Remote AI/Full Stack roles, IoT projects, consulting
