@@ -5,7 +5,7 @@ Currently shipping AI dev tooling and production systems with **Django, FastAPI,
 ```python
 mohib = Developer(
     focus=["AI Dev Tooling", "Django/FastAPI", "React/Next.js", "IoT/Embedded"],
-    currently_building="AI-agent security & migration tooling",
+    currently_building="AI-agent security, evaluation & migration tooling",
     caffeinated=True,
 )
 ```
@@ -14,6 +14,7 @@ mohib = Developer(
 
 ### What I Do
 **AI/ML** → PyTorch, LangChain, Computer Vision (YOLO), LLM tooling  
+**AI Evaluation** → agent benchmarking, ground-truth case design, statistical scoring  
 **Backend** → Django REST, FastAPI, PostgreSQL, Redis  
 **Web** → React, Next.js, TypeScript, TailwindCSS, Vue  
 **IoT/Embedded** → nRF54L15, BLE, Zigbee, Home Assistant, MQTT
@@ -21,6 +22,7 @@ mohib = Developer(
 ---
 
 ### Recent Work
+⚖️ **overruled** — verdict auditor for AI SOC agents; replays ground-truth cases and grades the rulings. No LLM in the grading path · PyPI · GitHub Action  
 🔍 **Sift** — semantic triage layer for AI-agent security scanner output (SARIF → classified findings) · npm  
 🚢 **Ferry** — model-migration CLI comparing quality & cost delta across LLMs · npm  
 🛡️ **ClawVet** — MCP / agent-skill security scanner · npm  
