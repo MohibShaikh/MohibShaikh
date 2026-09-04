@@ -1,6 +1,6 @@
 # Hey, I'm Mohib
 
-AI + Full Stack Engineer. I build developer tools, production web apps, and IoT systems.
+AI + Software Engineer. I build developer tools, production web apps, and IoT systems.
 
 Right now I work mostly on agent infrastructure and AI dev tooling, with Django, FastAPI, and React on the product side and nRF hardware on the edge side.
 
