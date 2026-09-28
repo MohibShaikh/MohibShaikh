@@ -21,19 +21,13 @@ Security scanner for AI agent skills. Static triage first, LLM adjudication seco
 **[jev-skillbench](https://github.com/MohibShaikh/jev-skillbench)**
 Benchmark harness for TypeSafe's Jev model as a malicious-skill detector. Ran all 7,944 skills in MalSkillBench across three inference backends.
 
-**overruled** (PyPI, GitHub Action)
-Verdict auditor for AI SOC agents. Replays ground-truth cases and grades the rulings, with no LLM in the grading path.
-
-**Sift** (npm)
-Triage layer for agent security scanner output. Takes SARIF, returns classified findings.
-
-**Ferry** (npm)
-CLI that compares quality and cost across LLMs before you migrate models. About 1,500 downloads on launch day.
-
 **[unix-ancillary](https://crates.io/crates/unix-ancillary)** (Rust)
 Safe file descriptor passing over Unix sockets (SCM_RIGHTS). Used by the systemd-nspawn plugin for Forgejo's CI runner.
 
-**hwcontract** (PyPI)
+**[overruled](https://github.com/MohibShaikh/overruled)** (PyPI, GitHub Action)
+Verdict auditor for AI SOC agents. Replays ground-truth cases and grades the rulings, with no LLM in the grading path.
+
+**[hwcontract](https://github.com/MohibShaikh/hwcontract)** (PyPI)
 Temporal assertions over hardware traces. Runs as a pytest plugin, a GitHub Action, and an MCP server.
 
 ## Open source contributions
