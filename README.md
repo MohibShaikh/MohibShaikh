@@ -15,7 +15,7 @@ These days most of my time goes into agent security and evaluation: scanning age
 
 ## Projects
 
-**ClawVet** (PyPI, npm)
+**[clawvet](https://www.npmjs.com/package/clawvet)** (PyPI, npm)
 Security scanner for AI agent skills. Static triage first, LLM adjudication second. Two independent research papers used it as their baseline.
 
 **[jev-skillbench](https://github.com/MohibShaikh/jev-skillbench)**
