@@ -37,7 +37,7 @@ Temporal assertions over hardware traces. Runs as a pytest plugin, a GitHub Acti
 
 ## Research
 
-- "Comparative Assessment of YOLO Nano Architectures for High-Speed Steel Detection", ASTRJ, 2026. [DOI](https://doi.org/10.12913/22998624/212538)
+- "Comparative Assessment of YOLO Nano Architectures for High-Speed Steel Detection"
 - "Secure Edge Deployment of Machine Vision System on FPGA Platform", IEEE CW 2026, accepted
 
 ## Contact
